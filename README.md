@@ -1,9 +1,5 @@
 <h1 align="center">Namaste! 🙏 I'm Dev Dhawan</h1>
-<h3 align="center">Backend Developer • AI Enthusiast • Hackathon Builder • Event Organizer</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Backend+Developer+with+Spring+Boot+%26+Go;Building+Full-Stack+Projects;Exploring+Agentic+AI+Systems;Hackathon+Enthusiast+%26+Tech+Organizer" alt="Typing SVG" />
-</p>
+<h3 align="center">Backend Developer • DevOps Enthusiast • Hackathon Builder • Event Organizer</h3>
 
 ---
 
